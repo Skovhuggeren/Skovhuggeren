@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="da">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Neglehjørnet</title>
+    <link rel="stylesheet" href="general.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header>
+      <nav class="navbar">
+        <img class="logo" src="beskåret.png" alt="logo" />
+        <ul class="menu">
+          <li class="over"><a href="index.html">Forside</a></li>
+          <li class="over"><a href="vidensdeling.html">Vidensdeling</a></li>
+          <li class="navnefont">Neglehjørnet</li>
+          <li class="over"><a href="inspiration.html">Inspiration</a></li>
+          <li class="over"><a href="Kategorier.html">Kategorier?</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <h1 class="forsideh1">Forside</h1>
+      <div class="forbillede">
+        <img
+          class="forside-billede"
+          src="daa.png"
+          alt="En masse forkskellige negle farver"
+        />
+        <div class="treh2">
+          <h2 class="centerh2">vidensdeling</h2>
+          <h2 class="centerh2">Inspiration</h2>
+          <h2 class="centerh2">Kategorier</h2>
+
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Perspiciatis distinctio odio ipsum iste consectetur voluptates, ipsa
+            neque eius vel blanditiis aliquid molestias nihil quia, ullam
+            aperiam, delectus repellendus nulla. Ea.
+          </p>
+
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum
+            suscipit distinctio dignissimos earum aliquid incidunt quaerat ab
+            nobis nam fuga tempora architecto cumque aliquam, enim rerum ipsa,
+            officia eveniet porro?
+          </p>
+
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Reprehenderit vitae ut amet atque voluptatibus similique deserunt
+            fugit est, sapiente, quod nihil assumenda eos? Harum magnam fugiat
+            vel! At, labore dolorum!
+          </p>
+        </div>
+        <div class="trebillede">
+          <a href="vidensdeling.html">
+            <img class="hovbillede" src="billede3.png" alt="" />
+          </a>
+          <a href="inspiration.html">
+            <img class="hovbillede" src="billede2.png" alt="" />
+          </a>
+          <a href="Kategorier.html">
+            <img class="hovbilledeedit" src="billede1.png" alt="" />
+          </a>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="indrefooter">
+        <div class="logocontainer">
+          <img src="beskåret.png" alt="logo for Neglehjørnet" />
+        </div>
+        <div class="footer_third">
+          <h1>Hjælp</h1>
+          <a href="#">Terms &amp; Conditions</a>
+          <a href="#">Privacy Policy</a>
+        </div>
+
+        <div class="footer_third">
+          <h1>Information</h1>
+          <a href="#">Mærker jeg bruger</a>
+          <a href="#">Sammarbejde</a>
+        </div>
+
+        <div class="footer_third">
+          <h1>Følg Mig</h1>
+          <ul>
+            <li>
+              <a href="https://www.facebook.com/profile.php?id=100064281755061">
+                <img
+                  class="social"
+                  src="/ikoner/facebook.png"
+                  alt="facebook ikon"
+              /></a>
+              <a
+                href="https://www.youtube.com/channel/UC7JcL_2GL8jvC8jYb1M-2qw"
+              >
+                <img
+                  class="social"
+                  src="/ikoner/youtube.png"
+                  alt="facebook ikon"
+              /></a>
+              <a href="https://www.instagram.com/rosasnailcreations/?hl=da">
+                <img
+                  class="social"
+                  src="/ikoner/instagram.png"
+                  alt="facebook ikon"
+              /></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
